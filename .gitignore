@@ -2,3 +2,4 @@ magic_square
 *build
 *CMake*
 *.vscode
+*main
